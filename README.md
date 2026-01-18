@@ -67,4 +67,4 @@ The text is not perfect English, but it is:
 - learned **entirely from scratch**
 
 
-Run the v2.py file to mimic the things i done or my code
+Run the v2.py file to mimic the things i done or my code and dont forget to gather a gpu!!!!!!
